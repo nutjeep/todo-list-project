@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nutjeep/todo-list.git/static/css/main.fdbbdc58.css",
-    "main.js": "/nutjeep/todo-list.git/static/js/main.03b7350a.js",
+    "main.css": "/nutjeep/todo-list.git/static/css/main.a79c5e22.css",
+    "main.js": "/nutjeep/todo-list.git/static/js/main.32a721b4.js",
     "static/js/787.a5cad257.chunk.js": "/nutjeep/todo-list.git/static/js/787.a5cad257.chunk.js",
     "index.html": "/nutjeep/todo-list.git/index.html",
-    "main.fdbbdc58.css.map": "/nutjeep/todo-list.git/static/css/main.fdbbdc58.css.map",
-    "main.03b7350a.js.map": "/nutjeep/todo-list.git/static/js/main.03b7350a.js.map",
+    "main.a79c5e22.css.map": "/nutjeep/todo-list.git/static/css/main.a79c5e22.css.map",
+    "main.32a721b4.js.map": "/nutjeep/todo-list.git/static/js/main.32a721b4.js.map",
     "787.a5cad257.chunk.js.map": "/nutjeep/todo-list.git/static/js/787.a5cad257.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdbbdc58.css",
-    "static/js/main.03b7350a.js"
+    "static/css/main.a79c5e22.css",
+    "static/js/main.32a721b4.js"
   ]
 }
